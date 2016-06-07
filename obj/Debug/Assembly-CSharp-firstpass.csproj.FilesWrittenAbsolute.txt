@@ -1,0 +1,17 @@
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/gil/dev/UnityStudy/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/gil/dev/UnityStudy/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/UnityEngine.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/UnityEditor.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Mono.Cecil.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Unity.DataContract.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/gil/dev/UnityStudy/Temp/bin/Debug/Mono.Cecil.Mdb.dll
